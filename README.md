@@ -1,5 +1,5 @@
 # Count App
-### A simple starter application to teach building a bsic Android Application
+### A simple starter application to teach building a basic Android Application
 
 ## Initial Project Setup
 1. Create a new android application project.
@@ -7,11 +7,12 @@
 3. Select the type of activity on the next screen as `Empty Activity` and keep the default name.
 
 ## Application Code
-### 1. LAYOUT FILE (XML):
+### 1. Layout File (XML):
     `app -> src -> main -> res -> layout -> activity_main.xml`
  * Add the TextView and Buttons
+ 
 
-### 2. ACTIVITY CLASS FILE (JAVA):
+### 2. Activity Class File (JAVA):
     `app -> src -> main -> java -> <package-name> -> MainActivity.java`
 
  * STEP-1: Declare view variables globaly and BindViews from the xml
